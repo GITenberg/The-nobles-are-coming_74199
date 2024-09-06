@@ -1,0 +1,45 @@
+_repo: The-nobles-are-coming_74199
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Lief, Bert
+    gutenberg_agent_id: '57388'
+    url: http://www.gutenberg.org/2009/agents/57388
+creator:
+  author:
+    agent_name: Cox, Arthur Jean
+    aliases:
+    - Cross, Gene
+    - Carghill, Ralph
+    - Cox, Jean
+    - Cox, Arthur J.
+    - Dean, William
+    - Rokesmith, John Thames
+    birthdate: 1929
+    deathdate: 2016
+    gutenberg_agent_id: '57387'
+    url: http://www.gutenberg.org/2009/agents/57387
+description: ''
+gutenberg_issued: '2024-08-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74199'
+language: en
+pgterms:marc905: 20240317140337cross
+pgterms:marc906: '1954'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aNew York, NY :$bKing-Size Publications, Inc., $c1954.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Short stories'
+- !lcsh 'Horror tales'
+- !lcsh 'Mars (Planet) -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: The nobles are coming
+url: http://www.gutenberg.org/ebooks/74199
