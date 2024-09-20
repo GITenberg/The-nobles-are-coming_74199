@@ -5,6 +5,9 @@ contributor:
     agent_name: Lief, Bert
     gutenberg_agent_id: '57388'
     url: http://www.gutenberg.org/2009/agents/57388
+covers:
+- cover_type: archival
+  image_path: 74199-h/images/cover.jpg
 creator:
   author:
     agent_name: Cox, Arthur Jean
@@ -20,6 +23,8 @@ creator:
     gutenberg_agent_id: '57387'
     url: http://www.gutenberg.org/2009/agents/57387
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74199#The-nobles-are-coming
 gutenberg_issued: '2024-08-07'
 gutenberg_type: Text
 identifiers:
